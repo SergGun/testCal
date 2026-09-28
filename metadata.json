@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Dynamic Calendar",
+  "description": "Dynamic calendar application featuring multi-view schedule management, weekly time-grid layout, month view, agenda stream, and daily summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
